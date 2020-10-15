@@ -11,3 +11,9 @@
 
 ## it is modified in the vscode in windows and change the user's name to Ygf in current repository but still commited through git bash instead of in vscode.
 > *it turns out to be as Ygf, the name of git in current repository.*
+
+## it is modified in the vscode in windows and change the user's name to Ygf and change the in current repository but still commited through git bash instead of in vscode.
+> *it turns out to be as Ygf, the name of git in current repository.*
+
+## it is modified in the vscode in windows and change both the name and email, the name is Ygf and the email is 18145646512@163.com but still commited through gi bash instead of in vscode.
+> *it turns out to be as Ygf, so it's nothing about the email, but it's still different from the one above.*
