@@ -21,7 +21,7 @@
 ## it is modified in the vscode in windows and change both the name and email at the same time, the name is YGf and the email is yuguanfeng43@163.com but still commited through gi bash instead of in vscode.
 > *it turns out to be as YGf.*
 
-## what if the email is not a email format, just like this "12345"?
+## what if the email is not a email-format, just like "12345"?
 > *it works well and still is marked as YGf, so the user's email haves no effect*
 
 ## let's try to do the "add" "commit" "push" in vscode!
