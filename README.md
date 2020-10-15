@@ -23,3 +23,6 @@
 
 ## what if the email is not a email format, just like this "12345"?
 > *it works well and still is marked as YGf, so the user's email haves no effect*
+
+## let's try to do the "add" "commit" "push" in vscode!
+> *You can see an system control icon on the left of vscode, click it. You can see the change you've made in the repository. But it's only can be seen after modified and saved. So don't forget to save the file. "Stage changes" is equal to "add". 
