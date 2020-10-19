@@ -19,7 +19,7 @@
 > *it turns out to be as YGf.<5.YGf yuguanfeng43@163.com>*
 
 ## what if the email is not a email-format, just like "12345"?
-> *it works well and still is marked as YGf, so the user's email haves no effect<6.YGf 12345>*
+> *it works well and is still marked as YGf, so the user's email haves no effect<6.YGf 12345>*
 
 ## how will it be like if in ubuntu?
 > *it turns out to be same as that in windows.<6.YGf 12345>*
